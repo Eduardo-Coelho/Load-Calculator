@@ -1,6 +1,6 @@
 <h1 align="center">Loan Calculator</h1>
 
-<img src="./demo/img1.png" width="300" height="300">
+<img src="./demo/img1.png" width="500" height="300">
 
 # Project Description
 
